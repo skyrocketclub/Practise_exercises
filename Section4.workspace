@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section4" Database="" Version="10000">
+  <Project Name="Arrays" Path="Section4/Section4.project" Active="No"/>
+  <Project Name="Data_type" Path="Project2/Project2.project" Active="No"/>
+  <Project Name="FirstProgram" Path="FirstProgram/FirstProgram.project" Active="No"/>
+  <Project Name="Using_Namespace" Path="Using_Namespace/Using_Namespace.project" Active="No"/>
+  <Project Name="Area_of_room" Path="Area_of_room/Area_of_room.project" Active="No"/>
+  <Project Name="Declare_using_constants" Path="Declare_using_constants/Declare_using_constants.project" Active="No"/>
+  <Project Name="Challenge_on_price_per_room" Path="Challenge_on_price_per_room/Challenge_on_price_per_room.project" Active="No"/>
+  <Project Name="Vectors" Path="Vectors/Vectors.project" Active="No"/>
+  <Project Name="Vector_Intro_challenge" Path="Vector_Intro_challenge/Vector_Intro_challenge.project" Active="No"/>
+  <Project Name="Arithmetic_operators" Path="Arithmetic_operators/Arithmetic_operators.project" Active="No"/>
+  <Project Name="Increment_Decrement" Path="Increment_Decrement/Increment_Decrement.project" Active="No"/>
+  <Project Name="Mixed_type_expressions" Path="Mixed_type_expressions/Mixed_type_expressions.project" Active="No"/>
+  <Project Name="Testing_for_Equality" Path="Testing_for_Equality/Testing_for_Equality.project" Active="No"/>
+  <Project Name="Relational_operators" Path="Relational_operators/Relational_operators.project" Active="No"/>
+  <Project Name="Logical_operators" Path="Logical_operators/Logical_operators.project" Active="No"/>
+  <Project Name="change_to_give" Path="Compound_Assignment_opp/Compound_Assignment_opp.project" Active="No"/>
+  <Project Name="change_to_give" Path="change_to_give/change_to_give.project" Active="No"/>
+  <Project Name="If_Statement" Path="If_Statement/If_Statement.project" Active="No"/>
+  <Project Name="Nested_if_statement" Path="Nested_if_statement/Nested_if_statement.project" Active="No"/>
+  <Project Name="Shipping_Cost" Path="Shipping_Cost/Shipping_Cost.project" Active="No"/>
+  <Project Name="Switch_Statements" Path="Switch_Statements/Switch_Statements.project" Active="No"/>
+  <Project Name="Switch_enum" Path="Switch_enum/Switch_enum.project" Active="No"/>
+  <Project Name="Conditional_Operator" Path="Conditional_Operator/Conditional_Operator.project" Active="No"/>
+  <Project Name="Looping" Path="Looping/Looping.project" Active="No"/>
+  <Project Name="Range_based_for_loop" Path="Range_based_for_loop/Range_based_for_loop.project" Active="No"/>
+  <Project Name="While_loop" Path="While_loop/While_loop.project" Active="No"/>
+  <Project Name="Do_while" Path="Do_while/Do_while.project" Active="No"/>
+  <Project Name="Nested_loops" Path="Nested_loops/Nested_loops.project" Active="No"/>
+  <Project Name="Histogram" Path="Histogram/Histogram.project" Active="No"/>
+  <Project Name="Vectors_Manipulator" Path="Section9_Challenge/Section9_Challenge.project" Active="No"/>
+  <Project Name="Cstyle_strings" Path="Cstyle_strings/Cstyle_strings.project" Active="No"/>
+  <Project Name="C++Strings" Path="C++Strings/C++Strings.project" Active="No"/>
+  <Project Name="Substitution_Cipher" Path="Substitution_Cipher/Substitution_Cipher.project" Active="No"/>
+  <Project Name="String_pyramid" Path="String_pyramid/String_pyramid.project" Active="No"/>
+  <Project Name="Math_project" Path="Math_project/Math_project.project" Active="No"/>
+  <Project Name="FUNCTIONS" Path="FUNCTIONS/FUNCTIONS.project" Active="No"/>
+  <Project Name="Function_examples" Path="Function_examples/Function_examples.project" Active="No"/>
+  <Project Name="Function_parameters" Path="Function_parameters/Function_parameters.project" Active="No"/>
+  <Project Name="Craps_Game" Path="Craps_Game/Craps_Game.project" Active="No"/>
+  <Project Name="Default_Arguments" Path="Default_Arguments/Default_Arguments.project" Active="No"/>
+  <Project Name="Function_overloading" Path="Function_overloading/Function_overloading.project" Active="No"/>
+  <Project Name="Arrays_and_functions" Path="Arrays_and_functions/Arrays_and_functions.project" Active="No"/>
+  <Project Name="GP_CALCULATOR" Path="GP_CALCULATOR/GP_CALCULATOR.project" Active="No"/>
+  <Project Name="cgpa_with_vector" Path="cgpa_with_vector/cgpa_with_vector.project" Active="No"/>
+  <Project Name="Pass_by_reference" Path="Pass_by_reference/Pass_by_reference.project" Active="No"/>
+  <Project Name="Fibonacci_series" Path="Fibonacci_series/Fibonacci_series.project" Active="No"/>
+  <Project Name="Double_your_penny" Path="Double_your_penny/Double_your_penny.project" Active="No"/>
+  <Project Name="Vectors_Manipulator_Pro" Path="Vectors_Manipulator_Pro/Vectors_Manipulator_Pro.project" Active="No"/>
+  <Project Name="15_timestable_with_recursion" Path="15_timestable_with_recursion/15_timestable_with_recursion.project" Active="No"/>
+  <Project Name="prime_factors" Path="prime_factors/prime_factors.project" Active="No"/>
+  <Project Name="fibonacci_using_recursion" Path="fibonacci_using_recursion/fibonacci_using_recursion.project" Active="No"/>
+  <Project Name="Perfect" Path="Perfect/Perfect.project" Active="No"/>
+  <Project Name="raise_to_power_using_recursion" Path="raise_to_power_using_recursion/raise_to_power_using_recursion.project" Active="No"/>
+  <Project Name="References" Path="References/References.project" Active="No"/>
+  <VirtualDirectory Name="POINTERS">
+    <Project Name="Pointer_Arithmetic" Path="Pointer_Arithmetic/Pointer_Arithmetic.project" Active="No"/>
+    <Project Name="pointer" Path="pointer/pointer.project" Active="No"/>
+    <Project Name="Passing_pointers_two" Path="Passing_pointers_two/Passing_pointers_two.project" Active="No"/>
+    <Project Name="Passing_pointers_to_functions" Path="Passing_pointers_to_functions/Passing_pointers_to_functions.project" Active="No"/>
+    <Project Name="Passing_pointers_three" Path="Passing_pointers_three/Passing_pointers_three.project" Active="No"/>
+    <Project Name="Return_a_Pointer" Path="Return_a_Pointer/Return_a_Pointer.project" Active="No"/>
+    <Project Name="Pointers_Arrays_and_pointers" Path="Arraysnd_Pointers/Arraysnd_Pointers.project" Active="No"/>
+    <Project Name="Pointers_Dynamic_memory" Path="Dynamic_Memory/Dynamic_Memory.project" Active="No"/>
+    <Project Name="Challenge" Path="../../Desktop/CPP ++/Section-12-Pointers-and-References-Source-code/Section12/Challenge/Challenge.project" Active="Yes"/>
+    <Project Name="Pointer_Dereferencing" Path="Dereferencing_Pointers/Dereferencing_Pointers.project" Active="No"/>
+    <Project Name="Challenge" Path="../../Desktop/CPP ++/Section-12-Pointers-and-References-Source-code/Section12/Challenge/Challenge.project" Active="Yes"/>
+  </VirtualDirectory>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="no">
+      <Environment/>
+      <Project Name="Arrays" ConfigName="Debug"/>
+      <Project Name="Data_type" ConfigName="Debug"/>
+      <Project Name="FirstProgram" ConfigName="Debug"/>
+      <Project Name="Using_Namespace" ConfigName="Debug"/>
+      <Project Name="Area_of_room" ConfigName="Debug"/>
+      <Project Name="Declare_using_constants" ConfigName="Debug"/>
+      <Project Name="Challenge_on_price_per_room" ConfigName="Debug"/>
+      <Project Name="Vectors" ConfigName="Debug"/>
+      <Project Name="Vector_Intro_challenge" ConfigName="Debug"/>
+      <Project Name="Arithmetic_operators" ConfigName="Debug"/>
+      <Project Name="Increment_Decrement" ConfigName="Debug"/>
+      <Project Name="Mixed_type_expressions" ConfigName="Debug"/>
+      <Project Name="Testing_for_Equality" ConfigName="Debug"/>
+      <Project Name="Relational_operators" ConfigName="Debug"/>
+      <Project Name="Logical_operators" ConfigName="Debug"/>
+      <Project Name="change_to_give" ConfigName="Debug"/>
+      <Project Name="change_to_give" ConfigName="Debug"/>
+      <Project Name="If_Statement" ConfigName="Debug"/>
+      <Project Name="Nested_if_statement" ConfigName="Debug"/>
+      <Project Name="Shipping_Cost" ConfigName="Debug"/>
+      <Project Name="Switch_Statements" ConfigName="Debug"/>
+      <Project Name="Switch_enum" ConfigName="Debug"/>
+      <Project Name="Conditional_Operator" ConfigName="Debug"/>
+      <Project Name="Looping" ConfigName="Debug"/>
+      <Project Name="Range_based_for_loop" ConfigName="Debug"/>
+      <Project Name="While_loop" ConfigName="Debug"/>
+      <Project Name="Do_while" ConfigName="Debug"/>
+      <Project Name="Nested_loops" ConfigName="Debug"/>
+      <Project Name="Histogram" ConfigName="Debug"/>
+      <Project Name="Vectors_Manipulator" ConfigName="Debug"/>
+      <Project Name="Cstyle_strings" ConfigName="Debug"/>
+      <Project Name="C++Strings" ConfigName="Debug"/>
+      <Project Name="Substitution_Cipher" ConfigName="Debug"/>
+      <Project Name="String_pyramid" ConfigName="Debug"/>
+      <Project Name="Math_project" ConfigName="Debug"/>
+      <Project Name="FUNCTIONS" ConfigName="Debug"/>
+      <Project Name="Function_examples" ConfigName="Debug"/>
+      <Project Name="Function_parameters" ConfigName="Debug"/>
+      <Project Name="Craps_Game" ConfigName="Debug"/>
+      <Project Name="Default_Arguments" ConfigName="Debug"/>
+      <Project Name="Function_overloading" ConfigName="Debug"/>
+      <Project Name="Arrays_and_functions" ConfigName="Debug"/>
+      <Project Name="GP_CALCULATOR" ConfigName="Debug"/>
+      <Project Name="cgpa_with_vector" ConfigName="Debug"/>
+      <Project Name="Pass_by_reference" ConfigName="Debug"/>
+      <Project Name="Fibonacci_series" ConfigName="Debug"/>
+      <Project Name="Double_your_penny" ConfigName="Debug"/>
+      <Project Name="Vectors_Manipulator_Pro" ConfigName="Debug"/>
+      <Project Name="pointer" ConfigName="Debug"/>
+      <Project Name="15_timestable_with_recursion" ConfigName="Debug"/>
+      <Project Name="prime_factors" ConfigName="Debug"/>
+      <Project Name="Pointer_Dereferencing" ConfigName="Debug"/>
+      <Project Name="Pointers_Dynamic_memory" ConfigName="Debug"/>
+      <Project Name="fibonacci_using_recursion" ConfigName="Debug"/>
+      <Project Name="Perfect" ConfigName="Debug"/>
+      <Project Name="raise_to_power_using_recursion" ConfigName="Debug"/>
+      <Project Name="Pointers_Arrays_and_pointers" ConfigName="Debug"/>
+      <Project Name="Pointer_Arithmetic" ConfigName="Debug"/>
+      <Project Name="Passing_pointers_to_functions" ConfigName="Debug"/>
+      <Project Name="Passing_pointers_two" ConfigName="Debug"/>
+      <Project Name="Passing_pointers_three" ConfigName="Debug"/>
+      <Project Name="Return_a_Pointer" ConfigName="Debug"/>
+      <Project Name="References" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+      <Project Name="Pointer_Challenge..." ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Arrays" ConfigName="Release"/>
+      <Project Name="Data_type" ConfigName="Release"/>
+      <Project Name="FirstProgram" ConfigName="Release"/>
+      <Project Name="Using_Namespace" ConfigName="Release"/>
+      <Project Name="Area_of_room" ConfigName="Release"/>
+      <Project Name="Declare_using_constants" ConfigName="Release"/>
+      <Project Name="Challenge_on_price_per_room" ConfigName="Release"/>
+      <Project Name="Vectors" ConfigName="Release"/>
+      <Project Name="Vector_Intro_challenge" ConfigName="Release"/>
+      <Project Name="Arithmetic_operators" ConfigName="Release"/>
+      <Project Name="Increment_Decrement" ConfigName="Release"/>
+      <Project Name="Mixed_type_expressions" ConfigName="Release"/>
+      <Project Name="Testing_for_Equality" ConfigName="Release"/>
+      <Project Name="Relational_operators" ConfigName="Release"/>
+      <Project Name="Logical_operators" ConfigName="Release"/>
+      <Project Name="change_to_give" ConfigName="Release"/>
+      <Project Name="change_to_give" ConfigName="Release"/>
+      <Project Name="If_Statement" ConfigName="Release"/>
+      <Project Name="Nested_if_statement" ConfigName="Release"/>
+      <Project Name="Shipping_Cost" ConfigName="Release"/>
+      <Project Name="Switch_Statements" ConfigName="Release"/>
+      <Project Name="Switch_enum" ConfigName="Release"/>
+      <Project Name="Conditional_Operator" ConfigName="Release"/>
+      <Project Name="Looping" ConfigName="Release"/>
+      <Project Name="Range_based_for_loop" ConfigName="Release"/>
+      <Project Name="While_loop" ConfigName="Release"/>
+      <Project Name="Do_while" ConfigName="Release"/>
+      <Project Name="Nested_loops" ConfigName="Release"/>
+      <Project Name="Histogram" ConfigName="Release"/>
+      <Project Name="Vectors_Manipulator" ConfigName="Release"/>
+      <Project Name="Cstyle_strings" ConfigName="Release"/>
+      <Project Name="C++Strings" ConfigName="Release"/>
+      <Project Name="Substitution_Cipher" ConfigName="Release"/>
+      <Project Name="String_pyramid" ConfigName="Release"/>
+      <Project Name="Math_project" ConfigName="Release"/>
+      <Project Name="FUNCTIONS" ConfigName="Release"/>
+      <Project Name="Function_examples" ConfigName="Release"/>
+      <Project Name="Function_parameters" ConfigName="Release"/>
+      <Project Name="Craps_Game" ConfigName="Release"/>
+      <Project Name="Default_Arguments" ConfigName="Release"/>
+      <Project Name="Function_overloading" ConfigName="Release"/>
+      <Project Name="Arrays_and_functions" ConfigName="Release"/>
+      <Project Name="GP_CALCULATOR" ConfigName="Release"/>
+      <Project Name="cgpa_with_vector" ConfigName="Release"/>
+      <Project Name="Pass_by_reference" ConfigName="Release"/>
+      <Project Name="Fibonacci_series" ConfigName="Release"/>
+      <Project Name="Double_your_penny" ConfigName="Release"/>
+      <Project Name="Vectors_Manipulator_Pro" ConfigName="Release"/>
+      <Project Name="pointer" ConfigName="Release"/>
+      <Project Name="15_timestable_with_recursion" ConfigName="Release"/>
+      <Project Name="prime_factors" ConfigName="Release"/>
+      <Project Name="Pointer_Dereferencing" ConfigName="Release"/>
+      <Project Name="Pointers_Dynamic_memory" ConfigName="Release"/>
+      <Project Name="fibonacci_using_recursion" ConfigName="Release"/>
+      <Project Name="Perfect" ConfigName="Release"/>
+      <Project Name="raise_to_power_using_recursion" ConfigName="Release"/>
+      <Project Name="Pointers_Arrays_and_pointers" ConfigName="Release"/>
+      <Project Name="Pointer_Arithmetic" ConfigName="Release"/>
+      <Project Name="Passing_pointers_to_functions" ConfigName="Release"/>
+      <Project Name="Passing_pointers_two" ConfigName="Release"/>
+      <Project Name="Passing_pointers_three" ConfigName="Release"/>
+      <Project Name="Return_a_Pointer" ConfigName="Release"/>
+      <Project Name="References" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+      <Project Name="Pointer_Challenge..." ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
